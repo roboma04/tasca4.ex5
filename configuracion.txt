@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 /home/usuario1/datos
 
